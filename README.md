@@ -1,4 +1,4 @@
-# wcfactory-docker [In development]
+# WCFactory-docker [In development]
 
 We include a docker-compose file for developement purposes which has the monorepo pre-installed.  It also has
 the cli globally available in the image.
